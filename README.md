@@ -13,7 +13,7 @@
 
 # <span style="color: Red;">Important Web Links</span>
 
-- [Chat App](https://external.zomans.com/support/agent)                               - [Insider](https://insider.in)  - [Insider Login](https://admin.insider.in)                                           - [Zomaland](https://insider.in/zomaland-by-zomato-carnival/article) - - [Zomato](https://www.zomato.com/)
+- [Chat App](https://external.zomans.com/support/agent)    - [Insider](https://insider.in)  - [Insider Login](https://admin.insider.in)           - [Zomaland](https://insider.in/zomaland-by-zomato-carnival/article) - - [Zomato](https://www.zomato.com/)
 - [External Zomans](https://external.zomans.com/) - [Lifeline Profile](https://external-access.zomans.com/#/apps) - [WhatsApp Web](https://web.whatsapp.com/) - [Refund Form](https://docs.google.com/forms/u/0/d/e/1FAIpQLScozlEwq8q4piV1PoflZOyTkBQlsTp0NCd_HS_y69xCVBHgXQ/formResponse)
 
 
