@@ -1,4 +1,4 @@
-# Common Links
+# Documents Links
 
 ## General Links
 
@@ -11,3 +11,9 @@
 - [INDvsENG FAQs All Cities](https://docs.google.com/spreadsheets/d/11arNieLnwollg3r4o6xYrNxvAIcT3HIXNC_o-MdRJVQ/edit?gid=307067024#gid=307067024)
 - [Arijit Singh Live Pune FAQs Jan 16|5 PM](https://docs.google.com/spreadsheets/d/1xygjFsQGanMbqV9AmID3JS-j7QOY7WfhNwPXvKxulg4/edit?gid=0#gid=0)
 
+# Web Links
+
+- [Chat App](https://external.zomans.com/support/agent)
+- [Insider](https://insider.in)
+- [Insider Login](https://admin.insider.in)
+- [Zomaland](https://insider.in/zomaland-by-zomato-carnival/article)
