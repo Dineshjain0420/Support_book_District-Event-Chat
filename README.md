@@ -1,4 +1,4 @@
-# <span style="color: blue;">Documentation Links</span>
+# <span style="color: blue;">Documents Links</span>
 
 ## General Links
 
@@ -13,7 +13,6 @@
 
 # Web Links
 
-- [Chat App](https://external.zomans.com/support/agent)
-- [Insider](https://insider.in)
-- [Insider Login](https://admin.insider.in)
-- [Zomaland](https://insider.in/zomaland-by-zomato-carnival/article)
+- [Chat App](https://external.zomans.com/support/agent)                               - [Insider](https://insider.in)
+- [Insider Login](https://admin.insider.in)                                           - [Zomaland](https://insider.in/zomaland-by-zomato-carnival/article)
+
