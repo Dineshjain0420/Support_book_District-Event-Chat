@@ -1,7 +1,66 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="icon" href="assets/images/8af344f5-8d18-4005-8273-b9b8586b7d33.jpg" type="image/jpg">
+    <title>Your Website Title</title>
 
+    <style>
+        /* Apply a glitter effect to the background */
+        @keyframes glitter {
+            0% {
+                background-position: 0 0;
+            }
+
+            100% {
+                background-position: 1000px 1000px;
+            }
+        }
+
+        body {
+            margin: 0;
+            padding: 0;
+            height: 100vh;
+            background: url('https://cdn.pixabay.com/photo/2016/02/17/23/11/sparkles-1206450_960_720.png') repeat;
+            background-size: 100px 100px;
+            animation: glitter 3s linear infinite;
+            color: white;
+            font-family: Arial, sans-serif;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            text-align: center;
+            /* Make sure content is on top of the glitter background */
+            position: relative;
+        }
+
+        /* Style the main content container */
+        .content {
+            background-color: rgba(0, 0, 0, 0.6); /* Semi-transparent background */
+            padding: 20px;
+            border-radius: 10px;
+            box-shadow: 0 0 15px rgba(255, 255, 255, 0.6); /* Optional: Add a glowing effect around the content */
+        }
+
+        h1 {
+            font-size: 3em;
+            text-shadow: 0 0 10px rgba(255, 255, 255, 0.8), 0 0 20px rgba(255, 255, 255, 0.6);
+        }
+
+        p {
+            font-size: 1.5em;
+            text-shadow: 0 0 10px rgba(255, 255, 255, 0.5), 0 0 20px rgba(255, 255, 255, 0.3);
+        }
+    </style>
+</head>
+
+<body>
+    <div class="content">
+        <h1>Welcome to My Website</h1>
+        <p>This is the homepage of your site!</p>
+    </div>
+</body>
+
+</html>
