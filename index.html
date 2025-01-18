@@ -1,16 +1,75 @@
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
-<html xmlns="http://www.w3.org/1999/xhtml">
-    <head>
-        <title>This is a XHTML sample file</title>
-        <style type="text/css"><![CDATA[
-            #example {
-                background-color: yellow;
-            }
-        ]]></style>
-    </head>
-    <body>
-        <div id="example">
-            Just a simple <strong>XHTML</strong> test page.
-        </div>
-    </body>
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>GitHub Code Search Syntax Guide</title>
+    <link rel="icon" href="favicon.ico" type="image/x-icon"> <!-- Replace with your own favicon -->
+</head>
+
+<body>
+    <header>
+        <h1>GitHub Code Search Syntax Guide</h1>
+        <p>This guide helps you understand how to build search queries for GitHub's code search feature.</p>
+    </header>
+
+    <section>
+        <h2>About Code Search Query Structure</h2>
+        <p>Search queries consist of search terms and qualifiers to narrow down the search. Here's an example of a basic query:</p>
+        <code>http-push</code>
+        <p>This will match files containing the term "http-push" or files named with that term in their path.</p>
+    </section>
+
+    <section>
+        <h2>Query for an Exact Match</h2>
+        <p>You can search for an exact string by surrounding it with quotes:</p>
+        <code>"sparse index"</code>
+        <p>This will match any file containing the exact phrase "sparse index".</p>
+    </section>
+
+    <section>
+        <h2>Searching for Quotes and Backslashes</h2>
+        <p>To search for quotes or backslashes in code, use escape sequences:</p>
+        <p>For quotes: <code>"name = \"tensorflow\""</code></p>
+        <p>For backslashes: <code>\\</code></p>
+    </section>
+
+    <section>
+        <h2>Using Boolean Operations</h2>
+        <p>GitHub Code Search supports boolean operations such as <code>AND</code>, <code>OR</code>, and <code>NOT</code>.</p>
+        <p>Example:</p>
+        <pre>language:python AND "function" OR "method"</pre>
+        <p>This query searches for Python files that contain either the term "function" or "method".</p>
+    </section>
+
+    <section>
+        <h2>Using Qualifiers</h2>
+        <p>Qualifiers narrow down your search results. For example:</p>
+        <ul>
+            <li><strong>Repository qualifier</strong>: <code>repo:github-linguist/linguist</code></li>
+            <li><strong>Language qualifier</strong>: <code>language:ruby</code></li>
+            <li><strong>Path qualifier</strong>: <code>path:unit_tests</code></li>
+        </ul>
+        <p>These allow you to search within specific repositories, languages, or file paths.</p>
+    </section>
+
+    <section>
+        <h2>Using Regular Expressions</h2>
+        <p>GitHub Code Search supports regular expressions. For example, to search for the regular expression <code>sparse.*index</code>:</p>
+        <pre>/sparse.*index/</pre>
+        <p>This matches occurrences of the word "sparse" followed by any number of characters, then the word "index".</p>
+    </section>
+
+    <section>
+        <h2>Case Sensitivity</h2>
+        <p>By default, searches are case-insensitive. To perform a case-sensitive search, use a regular expression with case insensitivity turned off:</p>
+        <pre>/(?-i)True/</pre>
+    </section>
+
+    <footer>
+        <p>For more information, visit <a href="https://docs.github.com/en/github/searching-for-information-on-github/about-searching-on-github" target="_blank">GitHub Search Documentation</a>.</p>
+    </footer>
+</body>
+
 </html>
