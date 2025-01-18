@@ -45,3 +45,34 @@
 
 # _Thank You!_ 😊 
 
+
+
+## Search for Content
+
+<input type="text" id="search" onkeyup="searchFunction()" placeholder="Search for links or content...">
+
+<ul id="content-list">
+  <li><a href="https://example.com">Link 1</a></li>
+  <li><a href="https://example2.com">Link 2</a></li>
+  <li><a href="https://example3.com">Link 3</a></li>
+  <!-- Add more list items here as needed -->
+</ul>
+
+<script>
+function searchFunction() {
+    let input = document.getElementById('search');
+    let filter = input.value.toLowerCase();
+    let ul = document.getElementById("content-list");
+    let li = ul.getElementsByTagName('li');
+
+    for (let i = 0; i < li.length; i++) {
+        let a = li[i].getElementsByTagName("a")[0];
+        if (a.innerHTML.toLowerCase().indexOf(filter) > -1) {
+            li[i].style.display = "";
+        } else {
+            li[i].style.display = "none";
+        }
+    }
+}
+</script>
+
