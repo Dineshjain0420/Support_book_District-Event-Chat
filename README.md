@@ -19,7 +19,7 @@
 
 ## Useful Tools
 
-##### QuillBot ✍️ - [QuillBot Chrome Extension](https://quillbot.com/app/chrome-extension)
+##### QuillBot ✍️ - [QuillBot Chrome Extension](https://chromewebstore.google.com/detail/quillbot-ai-writing-and-g/iidnbdjijdkbmajdffnidomddglmieko?hl=en-US&utm_source=quillbot.com&utm_medium=referral&utm_campaign=extension_landing_page&utm_content=fixed_banner&utm_term=direct)
 
 ##### Grammarly 📝 - [Grammarly Chrome Extension](https://chromewebstore.google.com/detail/grammarly-ai-writing-and/kbfnbcaeplbcioakkpcpgfkobkghlhen?hl=en)
 
