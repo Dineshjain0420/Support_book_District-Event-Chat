@@ -17,6 +17,16 @@
 - [Zomato](https://www.zomato.com/) 🍴 - [External Zomans](https://external.zomans.com/) 🔗 - [Lifeline Profile](https://external-access.zomans.com/#/apps) 🏥 - [WhatsApp Web](https://web.whatsapp.com/) 💬
 
 
+## <span style="color: Green;">Useful Tools</span>
+
+### QuillBot ✍️
+- [QuillBot Chrome Extension](https://quillbot.com/app/chrome-extension)
+### Grammarly 📝
+- [Grammarly Chrome Extension](https://chromewebstore.google.com/detail/grammarly-ai-writing-and/kbfnbcaeplbcioakkpcpgfkobkghlhen?hl=en)
+### Volume Master 🔊
+- [Volume Master Chrome Extension](https://chromewebstore.google.com/detail/volume-master/jghecgabfgfdldnmbfkhmffcabddioke)
+
+
 
 ## Download / Activate Office 💻
 
