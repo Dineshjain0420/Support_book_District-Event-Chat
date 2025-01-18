@@ -19,11 +19,11 @@
 
 ## Useful Tools
 
-### QuillBot ✍️ - [QuillBot Chrome Extension](https://quillbot.com/app/chrome-extension)
+##### QuillBot ✍️ - [QuillBot Chrome Extension](https://quillbot.com/app/chrome-extension)
 
-### Grammarly 📝 - [Grammarly Chrome Extension](https://chromewebstore.google.com/detail/grammarly-ai-writing-and/kbfnbcaeplbcioakkpcpgfkobkghlhen?hl=en)
+##### Grammarly 📝 - [Grammarly Chrome Extension](https://chromewebstore.google.com/detail/grammarly-ai-writing-and/kbfnbcaeplbcioakkpcpgfkobkghlhen?hl=en)
 
-### Volume Master 🔊 - [Volume Master Chrome Extension](https://chromewebstore.google.com/detail/volume-master/jghecgabfgfdldnmbfkhmffcabddioke)
+##### Volume Master 🔊 - [Volume Master Chrome Extension](https://chromewebstore.google.com/detail/volume-master/jghecgabfgfdldnmbfkhmffcabddioke)
 
 ## Download / Activate Office 💻
 
