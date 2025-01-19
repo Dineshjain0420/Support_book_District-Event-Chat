@@ -10,6 +10,7 @@
 - <a href="https://docs.google.com/spreadsheets/d/1VRpi0APPkfQSWJzBhfIyNAqn1e5GEWUTxmp8qhtvSg4/edit?gid=54208201#gid=54208201" target="_blank">Honey Singh Updates</a> 🎶
 - <a href="https://docs.google.com/spreadsheets/d/11arNieLnwollg3r4o6xYrNxvAIcT3HIXNC_o-MdRJVQ/edit?gid=307067024#gid=307067024" target="_blank">INDvsENG FAQs All Cities</a> 🏏
 - <a href="https://docs.google.com/spreadsheets/d/1xygjFsQGanMbqV9AmID3JS-j7QOY7WfhNwPXvKxulg4/edit?gid=0#gid=0" target="_blank">Arijit Singh Live Pune FAQs Jan 16-5 PM</a> 🎤
+- <a href="https://docs.google.com/spreadsheets/d/15JTXD6ozJReX8z50vBdAQ1l3ODcEaPYNo0OjoOhmrQ0/edit?gid=0#gid=0" target="_blank">Zomaland FAQs</a> 📑
 
 ## <span style="color: Green;">Important Web Links</span> 🌍
 
