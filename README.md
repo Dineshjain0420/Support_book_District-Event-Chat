@@ -4,7 +4,7 @@
 
 - <a href="https://docs.google.com/spreadsheets/d/1it4rlECHXYQtrjr24LQ3MzIkkOjy9dFdY92cCe201IE/edit?gid=89651715#gid=89651715" target="_blank">District Event Details</a> 📊
 - <a href="https://docs.google.com/spreadsheets/d/1awPy28Dw_jGX907CiAoTCtIGIYg0iKshfoMxRAQqUKw/edit?gid=1594796217#gid=1594796217" target="_blank">EVENTS UPDATES</a> 🔄
-- <a href="[https://docs.google.com/spreadsheets/d/1awPy28Dw_jGX907CiAoTCtIGIYg0iKshfoMxRAQqUKw/edit?gid=1594796217#gid=1594796217](https://docs.google.com/forms/d/1erWKk9TxRwhns3ES-vSj38AXnPGVlELg0z0W3cH_j5Y/viewform?edit_requested=true)" target="_blank">Supervisor Callback Form</a> 🧑‍💼📞
+- <a href="https://docs.google.com/forms/d/1erWKk9TxRwhns3ES-vSj38AXnPGVlELg0z0W3cH_j5Y/viewform?edit_requested=true)" target="_blank">Supervisor Callback Form</a> 🧑‍💼📞
 
 ### Specific Event Links 🎤
 
