@@ -16,6 +16,7 @@
 - <a href="https://docs.google.com/spreadsheets/d/15JTXD6ozJReX8z50vBdAQ1l3ODcEaPYNo0OjoOhmrQ0/edit?gid=0#gid=0" target="_blank">Zomaland FAQs</a> 📑
 - <a href="https://docs.google.com/spreadsheets/d/1iivEOttsoLil-nYH5urKrve-lTZL4TllZjeX4FPFSAs/edit?gid=0#gid=0">Zomaland New update</a> 📑
 - <a href="https://docs.google.com/spreadsheets/d/16ZJ1cTbbT0B3dzMZpAlu0WUmjJJsCNaOQMqyO2SlnCw/edit?gid=1851684047#gid=1851684047" target="_blank">TIËSTO India Tour 2025 FAQ</a> 🎶
+- <a href="https://docs.google.com/spreadsheets/d/1ULP96iUe86FKm7TY_8AdP9-V8sUoF9XMqQBbKmsACKY/edit?gid=104329285#gid=104329285" target="_blank">IIFA FAQ's</a>
 
 ## <span style="color: Green;">Important Web Links</span> 🌍
 
