@@ -18,7 +18,7 @@
 - <a href="https://docs.google.com/spreadsheets/d/1iivEOttsoLil-nYH5urKrve-lTZL4TllZjeX4FPFSAs/edit?gid=0#gid=0">Zomaland New update</a> 📑
 - <a href="https://docs.google.com/spreadsheets/d/16ZJ1cTbbT0B3dzMZpAlu0WUmjJJsCNaOQMqyO2SlnCw/edit?gid=1851684047#gid=1851684047" target="_blank">TIËSTO India Tour 2025 FAQ</a> 🎶
 - <a href="https://docs.google.com/spreadsheets/d/1ULP96iUe86FKm7TY_8AdP9-V8sUoF9XMqQBbKmsACKY/edit?gid=104329285#gid=104329285" target="_blank">IIFA FAQ's</a>
-
+- <a href="https://docs.google.com/spreadsheets/d/1GiHbp7QkSfQnsRwz2ftev2Q7Toi9zuBZ5RDn7iuP9mA/edit?gid=0#gid=0" target="_blank">Pokemon FAQ's</a> (◕‿◕)⚡
 ## <span style="color: Green;">Important Web Links</span> 🌍
 
 - <a href="https://external.zomans.com/support/agent" target="_blank">Chat App</a> 💬 - <a href="https://insider.in" target="_blank">Insider</a> 🔍 - <a href="https://admin.insider.in" target="_blank">Insider Login</a> 🔑 - <a href="https://www.zomato.com/live" target="_blank">Zomaland/Zomato Live</a> 🎉   
