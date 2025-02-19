@@ -12,15 +12,12 @@
 ### Specific Event Links 🎤
 
 - <a href="https://docs.google.com/spreadsheets/d/1VRpi0APPkfQSWJzBhfIyNAqn1e5GEWUTxmp8qhtvSg4/edit?gid=54208201#gid=54208201" target="_blank">Honey Singh Updates</a> 🎶
-- <a href="https://docs.google.com/spreadsheets/d/11arNieLnwollg3r4o6xYrNxvAIcT3HIXNC_o-MdRJVQ/edit?gid=307067024#gid=307067024" target="_blank">INDvsENG FAQs All Cities</a> 🏏
-- <a href="https://docs.google.com/spreadsheets/d/1xygjFsQGanMbqV9AmID3JS-j7QOY7WfhNwPXvKxulg4/edit?gid=0#gid=0" target="_blank">Arijit Singh Live Pune FAQs Jan 16-5 PM</a> 🎤
 - <a href="https://docs.google.com/spreadsheets/d/15JTXD6ozJReX8z50vBdAQ1l3ODcEaPYNo0OjoOhmrQ0/edit?gid=0#gid=0" target="_blank">Zomaland FAQs</a> 📑
 - <a href="https://docs.google.com/spreadsheets/d/1iivEOttsoLil-nYH5urKrve-lTZL4TllZjeX4FPFSAs/edit?gid=0#gid=0">Zomaland New update</a> 📑
-- <a href="https://docs.google.com/spreadsheets/d/16ZJ1cTbbT0B3dzMZpAlu0WUmjJJsCNaOQMqyO2SlnCw/edit?gid=1851684047#gid=1851684047" target="_blank">TIËSTO India Tour 2025 FAQ</a> 🎶
 - <a href="https://docs.google.com/spreadsheets/d/1ULP96iUe86FKm7TY_8AdP9-V8sUoF9XMqQBbKmsACKY/edit?gid=104329285#gid=104329285" target="_blank">IIFA FAQ's</a>
 - <a href="https://docs.google.com/spreadsheets/d/1GiHbp7QkSfQnsRwz2ftev2Q7Toi9zuBZ5RDn7iuP9mA/edit?gid=0#gid=0" target="_blank">Pokemon FAQ's</a> (◕‿◕)⚡
 - <a href="https://docs.google.com/spreadsheets/d/1-49d0_qGZepJz-jHWuNY0-ZPWi9ZMMUVDk4L839f2Bs/edit?gid=0#gid=0" target="_blank">Rishabh Sitar FAQ's</a> 🎸🎸
-- <a href="https://docs.google.com/spreadsheets/d/1gfPlWbyejINI3GqLZjaMnVl62z9cmKKmpLVG9d-YZ_k/edit?gid=0#gid=0" target="_blank">Arijit singh Chennai 2025 FAQ's</a> 🎤🎸
+- <a href="https://docs.google.com/spreadsheets/d/1Uh7G8rdnoEILcQzPkv4YN_MWJmFYjww-x2S5xmqDgsw/edit?gid=0#gid=0" target="_blank">Arijit singh Chennai 2025 FAQ's</a> 🎤🎸
 
 
 
