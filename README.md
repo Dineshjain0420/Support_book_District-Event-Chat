@@ -18,7 +18,7 @@
 - <a href="https://docs.google.com/spreadsheets/d/1GiHbp7QkSfQnsRwz2ftev2Q7Toi9zuBZ5RDn7iuP9mA/edit?gid=0#gid=0" target="_blank">Pokemon FAQ's</a> (◕‿◕)⚡
 - <a href="https://docs.google.com/spreadsheets/d/1-49d0_qGZepJz-jHWuNY0-ZPWi9ZMMUVDk4L839f2Bs/edit?gid=0#gid=0" target="_blank">Rishabh Sitar FAQ's</a> 🎸🎸
 - <a href="https://docs.google.com/spreadsheets/d/1Uh7G8rdnoEILcQzPkv4YN_MWJmFYjww-x2S5xmqDgsw/edit?gid=0#gid=0" target="_blank">Arijit singh Chennai 2025 FAQ's</a> 🎤🎸
--  <a href="https://docs.google.com/spreadsheets/d/1Uh7G8rdnoEILcQzPkv4YN_MWJmFYjww-x2S5xmqDgsw/edit?gid=0#gid=0" target="_blank">Arijit singh Mumbai 25 March 2025 FAQ's</a> 🎤🎸
+- <a href="https://docs.google.com/document/d/1XsFsbLSjhrXBuz91seGgDAeUEDUZEb95pCOqIKFANec/edit?addon_store&tab=t.0">Arijit singh Mumbai 25 March 2025 FAQ's</a> 🎤🎸
   
 
 
