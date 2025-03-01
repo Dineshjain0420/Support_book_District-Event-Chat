@@ -13,12 +13,13 @@
 
 - <a href="https://docs.google.com/spreadsheets/d/1VRpi0APPkfQSWJzBhfIyNAqn1e5GEWUTxmp8qhtvSg4/edit?gid=54208201#gid=54208201" target="_blank">Honey Singh Updates</a> 🎶
 - <a href="https://docs.google.com/spreadsheets/d/15JTXD6ozJReX8z50vBdAQ1l3ODcEaPYNo0OjoOhmrQ0/edit?gid=0#gid=0" target="_blank">Zomaland FAQs</a> 📑
-- <a href="https://docs.google.com/spreadsheets/d/1iivEOttsoLil-nYH5urKrve-lTZL4TllZjeX4FPFSAs/edit?gid=0#gid=0">Zomaland New update</a> 📑
+- <a href="https://docs.google.com/spreadsheets/d/1iivEOttsoLil-nYH5urKrve-lTZL4TllZjeX4FPFSAs/edit?gid=0#gid=0" target="_blank">Zomaland New update</a> 📑
 - <a href="https://docs.google.com/spreadsheets/d/1ULP96iUe86FKm7TY_8AdP9-V8sUoF9XMqQBbKmsACKY/edit?gid=104329285#gid=104329285" target="_blank">IIFA FAQ's</a>
 - <a href="https://docs.google.com/spreadsheets/d/1GiHbp7QkSfQnsRwz2ftev2Q7Toi9zuBZ5RDn7iuP9mA/edit?gid=0#gid=0" target="_blank">Pokemon FAQ's</a> (◕‿◕)⚡
 - <a href="https://docs.google.com/spreadsheets/d/1-49d0_qGZepJz-jHWuNY0-ZPWi9ZMMUVDk4L839f2Bs/edit?gid=0#gid=0" target="_blank">Rishabh Sitar FAQ's</a> 🎸🎸
 - <a href="https://docs.google.com/spreadsheets/d/1Uh7G8rdnoEILcQzPkv4YN_MWJmFYjww-x2S5xmqDgsw/edit?gid=0#gid=0" target="_blank">Arijit singh Chennai 2025 FAQ's</a> 🎤🎸
-- <a href="https://docs.google.com/document/d/1XsFsbLSjhrXBuz91seGgDAeUEDUZEb95pCOqIKFANec/edit?addon_store&tab=t.0">Arijit singh Mumbai 25 March 2025 FAQ's</a> 🎤🎸
+- <a href="https://docs.google.com/document/d/1XsFsbLSjhrXBuz91seGgDAeUEDUZEb95pCOqIKFANec/edit?addon_store&tab=t.0" target="_blank">Arijit singh Mumbai 25 March 2025 FAQ's</a> 🎤🎸
+- <a href="https://docs.google.com/spreadsheets/d/1jahz_lvygr5SXZ1o2pj1HpphNpIwfC93Cg2ZDy1-Rl4/edit?gid=550162003#gid=550162003" target="_blank">IPL FAQs</a> 🏏⚾🏆
   
 
 
