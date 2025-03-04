@@ -21,7 +21,7 @@
 - <a href="https://docs.google.com/document/d/1XsFsbLSjhrXBuz91seGgDAeUEDUZEb95pCOqIKFANec/edit?addon_store&tab=t.0" target="_blank">Arijit singh Mumbai 25 March 2025 FAQ's</a> 🎤🎸
 - <a href="https://docs.google.com/spreadsheets/d/1jahz_lvygr5SXZ1o2pj1HpphNpIwfC93Cg2ZDy1-Rl4/edit?gid=550162003#gid=550162003" target="_blank">IPL FAQs</a> 🏏⚾🏆
 - <a href="https://docs.google.com/spreadsheets/d/1xpO4zgNIJU9eG-ub527oKn-bdEpbMrZeEeu_zNvYIPI/edit?gid=374955956#gid=374955956" target="_blank"> Real Madrid Legends vs FC Barcelona Legends FAQs</a>
-  
+- <a href="https://docs.google.com/spreadsheets/d/100gVEaTiJw5ZLUV2tx9U1hEp0E-2t4fXJTaXL8sANuU/edit?gid=0#gid=0" target="_blank">Ritviz ft. Seedhe Maut | Mumbai| HOLI 2025 FAQs</a> 🎨🎭  
 
 
 
