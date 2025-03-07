@@ -20,6 +20,7 @@
 - <a href="https://docs.google.com/spreadsheets/d/1Uh7G8rdnoEILcQzPkv4YN_MWJmFYjww-x2S5xmqDgsw/edit?gid=0#gid=0" target="_blank">Arijit singh Chennai 2025 FAQ's</a> 🎤🎸
 - <a href="https://docs.google.com/document/d/1XsFsbLSjhrXBuz91seGgDAeUEDUZEb95pCOqIKFANec/edit?addon_store&tab=t.0" target="_blank">Arijit singh Mumbai 25 March 2025 FAQ's</a> 🎤🎸
 - <a href="https://docs.google.com/spreadsheets/d/1ZB7G4WMzu6zkT0z-d1lxNJN3OjNx0CONPTkLmvZHAIo/edit?gid=1496271412#gid=1496271412" target="_blank">IPL FAQs</a> 🏏⚾🏆
+- <a href="https://docs.google.com/spreadsheets/d/1wZ8T0H68hqQWv1iE3UNGp-pPb8DNlDUV/edit?gid=1930096759#gid=1930096759" target="_blank">IPL SOP</a> 🏏⚾🏆
 - <a href="https://docs.google.com/spreadsheets/d/1xpO4zgNIJU9eG-ub527oKn-bdEpbMrZeEeu_zNvYIPI/edit?gid=374955956#gid=374955956" target="_blank"> Real Madrid Legends vs FC Barcelona Legends FAQs</a>
 - <a href="https://docs.google.com/spreadsheets/d/100gVEaTiJw5ZLUV2tx9U1hEp0E-2t4fXJTaXL8sANuU/edit?gid=0#gid=0" target="_blank">Ritviz ft. Seedhe Maut | Mumbai| HOLI 2025 FAQs</a> 🎨🎭  
 
