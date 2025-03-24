@@ -18,7 +18,7 @@
 - <a href="https://docs.google.com/spreadsheets/d/1-49d0_qGZepJz-jHWuNY0-ZPWi9ZMMUVDk4L839f2Bs/edit?gid=0#gid=0" target="_blank">Rishabh Sitar FAQ's</a> 🎸🎸
 - <a href="https://docs.google.com/document/d/1XsFsbLSjhrXBuz91seGgDAeUEDUZEb95pCOqIKFANec/edit?addon_store&tab=t.0" target="_blank">Arijit singh Mumbai 25 March 2025 FAQ's</a> 🎤🎸
 - <a href="https://docs.google.com/spreadsheets/d/1ZB7G4WMzu6zkT0z-d1lxNJN3OjNx0CONPTkLmvZHAIo/edit?gid=1496271412#gid=1496271412" target="_blank">IPL FAQs</a> 🏏⚾🏆
-- <a href="https://docs.google.com/spreadsheets/d/1wZ8T0H68hqQWv1iE3UNGp-pPb8DNlDUV/edit?gid=1930096759#gid=1930096759" target="_blank">IPL SOP</a> 🏏⚾🏆
+- <a href="https://docs.google.com/spreadsheets/d/1-tjlDw7wJhdukqMfBOCqJqE_guyIMG74DPbdN10RVpA/edit?gid=531822715#gid=531822715" target="_blank">IPL SOP</a> 🏏⚾🏆
 - <a href="https://docs.google.com/spreadsheets/d/1xpO4zgNIJU9eG-ub527oKn-bdEpbMrZeEeu_zNvYIPI/edit?gid=374955956#gid=374955956" target="_blank"> Real Madrid Legends vs FC Barcelona Legends FAQs</a>
 - <a href="https://docs.google.com/spreadsheets/d/1Bwk7V-KfmK92IQzGUW6dmdqdsnG1had1Ko5YSUZxk6s/edit?gid=458075922#gid=458075922" target="_blank">Rahul Dua FAQs</a> 😂😆
 - <a href="https://docs.google.com/spreadsheets/d/13uKHT9oxa5g8WHHpbuSh3ADu8Q1wUhm1ZjZTYwDUE8A/edit?gid=1741347954#gid=1741347954" target="_blank">Shreya Ghoshal FAQs</a> 🎶😊🎤
