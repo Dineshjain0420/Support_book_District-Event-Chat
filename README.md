@@ -7,6 +7,7 @@
 - <a href="https://docs.google.com/spreadsheets/d/1awPy28Dw_jGX907CiAoTCtIGIYg0iKshfoMxRAQqUKw/edit?gid=1594796217#gid=1594796217" target="_blank">EVENTS UPDATES</a> 🔄
 - <a href="https://docs.google.com/spreadsheets/d/1aYI3pZfB2sVEacRNUqfh8lWTW5rmJfeN/edit?gid=998317989#gid=998317989" target="_blank">District Events Playbook || Startek</a> 📊
 - <a href="https://docs.google.com/forms/d/1erWKk9TxRwhns3ES-vSj38AXnPGVlELg0z0W3cH_j5Y/viewform?edit_requested=true)" target="_blank">Supervisor Callback Form</a> 🧑‍💼📞
+- <a href="https://docs.google.com/spreadsheets/d/1v5hjXGbT-6jwsaAPbZvPnW0DKGEtPesjvojBuyhlxtw/edit?gid=54505668#gid=54505668" target="_blank">Event Assistant Startek</a> 🧑‍💼
 - <a href="https://docs.google.com/forms/u/0/d/e/1FAIpQLScozlEwq8q4piV1PoflZOyTkBQlsTp0NCd_HS_y69xCVBHgXQ/formResponse" target="_blank">Refund Form</a> 📝
 - <a href="https://docs.google.com/forms/d/1q1jPlxsW5ee2aB35j_sOxnOIKz5ga-p-r1WFvZR-ieA/viewform?pli=1&pli=1&edit_requested=true" target="_blank">Good Call Form</a> ✅💯📞
 - <a href="https://docs.google.com/forms/d/1I8owItVNDcm_20qwuoS-VgxJ_7zjBoDVx7em9UVjm9s/preview?pli=1&pli=1&edit_requested=true" target="_blank">GST INVOICE FORM</a>
