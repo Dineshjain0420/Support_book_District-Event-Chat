@@ -2,6 +2,7 @@
 
 ### General Links 🌐
 
+- <a href="https://docs.google.com/document/d/1bzqkjt2vp1WsvrvUKFBUWYdZk5LY_tjonZ1XOxkIvEw/edit?tab=t.0" target="_blank">Daily/New Updates</a> 📊
 - <a href="https://docs.google.com/spreadsheets/d/1it4rlECHXYQtrjr24LQ3MzIkkOjy9dFdY92cCe201IE/edit?gid=89651715#gid=89651715" target="_blank">District Event Details</a> 📊
 - <a href="https://docs.google.com/spreadsheets/d/1awPy28Dw_jGX907CiAoTCtIGIYg0iKshfoMxRAQqUKw/edit?gid=1594796217#gid=1594796217" target="_blank">EVENTS UPDATES</a> 🔄
 - <a href="https://docs.google.com/spreadsheets/d/1aYI3pZfB2sVEacRNUqfh8lWTW5rmJfeN/edit?gid=998317989#gid=998317989" target="_blank">District Events Playbook || Startek</a> 📊
