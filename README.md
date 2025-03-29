@@ -24,7 +24,7 @@
 - <a href="https://docs.google.com/spreadsheets/d/1xpO4zgNIJU9eG-ub527oKn-bdEpbMrZeEeu_zNvYIPI/edit?gid=374955956#gid=374955956" target="_blank"> Real Madrid Legends vs FC Barcelona Legends FAQs</a>
 - <a href="https://docs.google.com/spreadsheets/d/1Bwk7V-KfmK92IQzGUW6dmdqdsnG1had1Ko5YSUZxk6s/edit?gid=458075922#gid=458075922" target="_blank">Rahul Dua FAQs</a> 😂😆
 - <a href="https://docs.google.com/spreadsheets/d/13uKHT9oxa5g8WHHpbuSh3ADu8Q1wUhm1ZjZTYwDUE8A/edit?gid=1741347954#gid=1741347954" target="_blank">Shreya Ghoshal FAQs</a> 🎶😊🎤
-- - <a href="https://docs.google.com/spreadsheets/d/1-pVBy2Iaj7LMAPTdE1TA2thvkMxwURABxwr_dXqv4rY/edit?gid=1245633694#gid=1245633694" target="_blank">Arijit singh Indore April 19 | 6PM FAQ's</a> 🎤🎸
+- <a href="https://docs.google.com/spreadsheets/d/1-pVBy2Iaj7LMAPTdE1TA2thvkMxwURABxwr_dXqv4rY/edit?gid=1245633694#gid=1245633694" target="_blank">Arijit singh Indore April 19 | 6PM FAQ's</a> 🎤🎸
 
 
 
