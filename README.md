@@ -26,7 +26,7 @@
 - <a href="https://docs.google.com/spreadsheets/d/13uKHT9oxa5g8WHHpbuSh3ADu8Q1wUhm1ZjZTYwDUE8A/edit?gid=1741347954#gid=1741347954" target="_blank">Shreya Ghoshal FAQs</a> 🎶😊🎤
 - <a href="https://docs.google.com/spreadsheets/d/1-pVBy2Iaj7LMAPTdE1TA2thvkMxwURABxwr_dXqv4rY/edit?gid=1245633694#gid=1245633694" target="_blank">Arijit singh Indore April 19 | 6PM FAQ's</a> 🎤🎸
 - <a href="https://docs.google.com/spreadsheets/d/19bOtEFeodGgme3Tfi3s6XiEANE45yATbCxT-7lyU5p4/edit?gid=1628676229#gid=1628676229" target="_blank">Jahnavi Harrison India Tour FAQs</a> 🎶😊🎤
-
+- <a href="https://docs.google.com/spreadsheets/d/12l6P9cptlcbG2kMhQz8jegxvresvqdSnrb28zjp05kY/edit?gid=1484856215#gid=1484856215" target="_blank">Arijit singh Surat FAQ's</a> 🎤🎸
 
 
 ## <span style="color: Green;">Important Web Links</span> 🌍
