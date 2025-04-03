@@ -27,6 +27,9 @@
 - <a href="https://docs.google.com/spreadsheets/d/1-pVBy2Iaj7LMAPTdE1TA2thvkMxwURABxwr_dXqv4rY/edit?gid=1245633694#gid=1245633694" target="_blank">Arijit singh Indore April 19 | 6PM FAQ's</a> 🎤🎸
 - <a href="https://docs.google.com/spreadsheets/d/19bOtEFeodGgme3Tfi3s6XiEANE45yATbCxT-7lyU5p4/edit?gid=1628676229#gid=1628676229" target="_blank">Jahnavi Harrison India Tour FAQs</a> 🎶😊🎤
 - <a href="https://docs.google.com/spreadsheets/d/12l6P9cptlcbG2kMhQz8jegxvresvqdSnrb28zjp05kY/edit?gid=1484856215#gid=1484856215" target="_blank">Arijit singh Surat FAQ's</a> 🎤🎸
+- <a href="https://docs.google.com/spreadsheets/d/1iuTtn1KYBuqSx32950eqg_5zpa5_h1NikgbdWVDjvvY/edit?gid=1071863240#gid=1071863240" target="_blank">ISL 2025_ BFC vs FC Goa FAQs</a> 🏏⚾🏆
+- <a href="https://docs.google.com/spreadsheets/d/1iuTtn1KYBuqSx32950eqg_5zpa5_h1NikgbdWVDjvvY/edit?gid=1071863240#gid=1071863240" target="_blank">ISL 2025_ BFC vs FC Goa FAQs</a> 🏏⚾🏆
+- <a href="https://docs.google.com/spreadsheets/d/11_T33OtThPHML2Bo6ebNHIv3ovMSuMurZIwBVFOsMjM/edit?gid=454091748#gid=454091748" target="_blank">Hukum World Tour Bengaluru FAQ's</a> 🎤🎸
 
 
 ## <span style="color: Green;">Important Web Links</span> 🌍
