@@ -28,7 +28,6 @@
 - <a href="https://docs.google.com/spreadsheets/d/19bOtEFeodGgme3Tfi3s6XiEANE45yATbCxT-7lyU5p4/edit?gid=1628676229#gid=1628676229" target="_blank">Jahnavi Harrison India Tour FAQs</a> 🎶😊🎤
 - <a href="https://docs.google.com/spreadsheets/d/12l6P9cptlcbG2kMhQz8jegxvresvqdSnrb28zjp05kY/edit?gid=1484856215#gid=1484856215" target="_blank">Arijit singh Surat FAQ's</a> 🎤🎸
 - <a href="https://docs.google.com/spreadsheets/d/1iuTtn1KYBuqSx32950eqg_5zpa5_h1NikgbdWVDjvvY/edit?gid=1071863240#gid=1071863240" target="_blank">ISL 2025_ BFC vs FC Goa FAQs</a> 🏏⚾🏆
-- <a href="https://docs.google.com/spreadsheets/d/11_T33OtThPHML2Bo6ebNHIv3ovMSuMurZIwBVFOsMjM/edit?gid=454091748#gid=454091748" target="_blank">Hukum World Tour Bengaluru FAQ's</a> 🎤🎸
 - <a href="https://docs.google.com/spreadsheets/d/15GfrnRYnavXymD-PzSuOGN8UJZ3CqDgLm0IfIRmPaBk/edit?gid=317925455#gid=317925455" target="_blank">AR Rahman FAQ's</a> 🎤🎸
 - <a href="https://docs.google.com/spreadsheets/d/1JGlpXBv0oElzEk00bWfIMGCHNQ6Mv-XtNr_5qvVEJy8/edit?gid=359252617#gid=359252617" target="_blank">Kevin Hart FAQ's</a>
 - <a href="https://docs.google.com/spreadsheets/d/1xOLpa_YRIuAkHYhbt4f94JBbifAF6wwx9rhEK0GXjk4/edit?gid=485027446#gid=485027446" target="_blank">Hukum World Tour Bengaluru FAQ's</a>
