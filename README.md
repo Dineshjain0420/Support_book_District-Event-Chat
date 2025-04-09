@@ -31,6 +31,9 @@
 - <a href="https://docs.google.com/spreadsheets/d/11_T33OtThPHML2Bo6ebNHIv3ovMSuMurZIwBVFOsMjM/edit?gid=454091748#gid=454091748" target="_blank">Hukum World Tour Bengaluru FAQ's</a> 🎤🎸
 - <a href="https://docs.google.com/spreadsheets/d/15GfrnRYnavXymD-PzSuOGN8UJZ3CqDgLm0IfIRmPaBk/edit?gid=317925455#gid=317925455" target="_blank">AR Rahman FAQ's</a> 🎤🎸
 - <a href="https://docs.google.com/spreadsheets/d/1JGlpXBv0oElzEk00bWfIMGCHNQ6Mv-XtNr_5qvVEJy8/edit?gid=359252617#gid=359252617" target="_blank">Kevin Hart FAQ's</a>
+- <a href="https://docs.google.com/spreadsheets/d/1xOLpa_YRIuAkHYhbt4f94JBbifAF6wwx9rhEK0GXjk4/edit?gid=485027446#gid=485027446" target="_blank">Hukum World Tour Bengaluru FAQ's</a>
+
+
 
 
 ## <span style="color: Green;">Important Web Links</span> 🌍
