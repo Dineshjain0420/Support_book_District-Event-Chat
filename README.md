@@ -33,10 +33,8 @@
 - <a href="https://docs.google.com/spreadsheets/d/1xOLpa_YRIuAkHYhbt4f94JBbifAF6wwx9rhEK0GXjk4/edit?gid=485027446#gid=485027446" target="_blank">Hukum World Tour Bengaluru FAQ's</a>
 - <a href="https://docs.google.com/spreadsheets/d/1i-Aa_EfrPLTkDs1t_2UNMR-LtxoaAHe9wQWBWjYWYDE/edit?gid=1098976194#gid=1098976194" target="_blank">Deva Coimbatore _ FAQs</a>
 
-## 📁 More Resources
 
-- [Old Updates]( https://github.com/Dineshjain0420/Support_book_District-Event-Chat/tree/b7adda80e70fbdef644f156d29a5c64afaa970f7/Old%20Updates)
--
+
 
 ## <span style="color: Green;">Important Web Links</span> 🌍
 
