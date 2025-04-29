@@ -36,6 +36,7 @@
 ## 📁 More Resources
 
 - [Old Updates](./Updates/Old%20Updates/)
+- https://github.com/Dineshjain0420/Support_book_District-Event-Chat/tree/b7adda80e70fbdef644f156d29a5c64afaa970f7/Old%20Updates
 
 
 ## <span style="color: Green;">Important Web Links</span> 🌍
