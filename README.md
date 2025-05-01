@@ -32,6 +32,7 @@
 - <a href="https://docs.google.com/spreadsheets/d/1JGlpXBv0oElzEk00bWfIMGCHNQ6Mv-XtNr_5qvVEJy8/edit?gid=359252617#gid=359252617" target="_blank">Kevin Hart FAQ's</a>
 - <a href="https://docs.google.com/spreadsheets/d/1xOLpa_YRIuAkHYhbt4f94JBbifAF6wwx9rhEK0GXjk4/edit?gid=485027446#gid=485027446" target="_blank">Hukum World Tour Bengaluru FAQ's</a>
 - <a href="https://docs.google.com/spreadsheets/d/1i-Aa_EfrPLTkDs1t_2UNMR-LtxoaAHe9wQWBWjYWYDE/edit?gid=1098976194#gid=1098976194" target="_blank">Deva Coimbatore _ FAQs</a>
+- <a href="https://docs.google.com/spreadsheets/d/1_HIgY8yTwB6tUCAN1CGStzoC0CtHvaVOYWNKLK7dlJ0/edit?gid=0#gid=0" target="_blank">MIXTAPE FAQs</a>
 
 
 
