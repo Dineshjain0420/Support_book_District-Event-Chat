@@ -18,7 +18,6 @@
 - <a href="https://docs.google.com/spreadsheets/d/15JTXD6ozJReX8z50vBdAQ1l3ODcEaPYNo0OjoOhmrQ0/edit?gid=0#gid=0" target="_blank">Zomaland FAQs</a> 📑
 - <a href="https://docs.google.com/spreadsheets/d/1iivEOttsoLil-nYH5urKrve-lTZL4TllZjeX4FPFSAs/edit?gid=0#gid=0" target="_blank">Zomaland New update</a> 📑
 - <a href="https://docs.google.com/spreadsheets/d/1-49d0_qGZepJz-jHWuNY0-ZPWi9ZMMUVDk4L839f2Bs/edit?gid=0#gid=0" target="_blank">Rishabh Sitar FAQ's</a> 🎸🎸
-- <a href="https://docs.google.com/document/d/1XsFsbLSjhrXBuz91seGgDAeUEDUZEb95pCOqIKFANec/edit?addon_store&tab=t.0" target="_blank">Arijit singh Mumbai 25 March 2025 FAQ's</a> 🎤🎸
 - <a href="https://docs.google.com/spreadsheets/d/1ZB7G4WMzu6zkT0z-d1lxNJN3OjNx0CONPTkLmvZHAIo/edit?gid=1496271412#gid=1496271412" target="_blank">IPL FAQs</a> 🏏⚾🏆
 - <a href="https://docs.google.com/spreadsheets/d/1-tjlDw7wJhdukqMfBOCqJqE_guyIMG74DPbdN10RVpA/edit?gid=531822715#gid=531822715" target="_blank">IPL SOP</a> 🏏⚾🏆
 - <a href="https://docs.google.com/spreadsheets/d/1xpO4zgNIJU9eG-ub527oKn-bdEpbMrZeEeu_zNvYIPI/edit?gid=374955956#gid=374955956" target="_blank"> Real Madrid Legends vs FC Barcelona Legends FAQs</a>
@@ -32,7 +31,7 @@
 - <a href="https://docs.google.com/spreadsheets/d/1JGlpXBv0oElzEk00bWfIMGCHNQ6Mv-XtNr_5qvVEJy8/edit?gid=359252617#gid=359252617" target="_blank">Kevin Hart FAQ's</a>
 - <a href="https://docs.google.com/spreadsheets/d/1xOLpa_YRIuAkHYhbt4f94JBbifAF6wwx9rhEK0GXjk4/edit?gid=485027446#gid=485027446" target="_blank">Hukum World Tour Bengaluru FAQ's</a>
 - <a href="https://docs.google.com/spreadsheets/d/1i-Aa_EfrPLTkDs1t_2UNMR-LtxoaAHe9wQWBWjYWYDE/edit?gid=1098976194#gid=1098976194" target="_blank">Deva Coimbatore _ FAQs</a>
-- <a href="https://docs.google.com/spreadsheets/d/1_HIgY8yTwB6tUCAN1CGStzoC0CtHvaVOYWNKLK7dlJ0/edit?gid=0#gid=0" target="_blank">MIXTAPE-FAQs</a>
+- <a href="https://docs.google.com/spreadsheets/d/1_HIgY8yTwB6tUCAN1CGStzoC0CtHvaVOYWNKLK7dlJ0/edit?gid=0#gid=0" target="_blank">MIXTAPE FAQs</a>
 
 
 
