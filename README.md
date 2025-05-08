@@ -33,6 +33,8 @@
 - <a href="https://docs.google.com/spreadsheets/d/1i-Aa_EfrPLTkDs1t_2UNMR-LtxoaAHe9wQWBWjYWYDE/edit?gid=1098976194#gid=1098976194" target="_blank">Deva Coimbatore _ FAQs</a>
 - <a href="https://docs.google.com/spreadsheets/d/1_HIgY8yTwB6tUCAN1CGStzoC0CtHvaVOYWNKLK7dlJ0/edit?gid=0#gid=0" target="_blank">MIXTAPE FAQs</a>
 - <a href="https://docs.google.com/spreadsheets/d/1B35Dr0aKuT52Fx24iwgX_8o26tSOTUWcjyyDGfDIDX8/edit?gid=1612711726#gid=1612711726" target="_blank">Amusement Park FAQ</a>
+- <a href="https://docs.google.com/spreadsheets/d/1YpaRVrMjCoPm97N8H-3tvn0ixjV-mv3dAZY3HaGp9hU/edit?gid=520399225#gid=520399225" target="_blank">BudX NBA House FAQ</a>
+- <a href="https://docs.google.com/spreadsheets/d/1lXwtO6IlmujPbJTYIajK-pOPm6tJ3Ha3_6OhH0C-UnQ/edit?gid=1258734023#gid=1258734023" target="_blank">Ilaiyaraja FA</a>
 
 
 
