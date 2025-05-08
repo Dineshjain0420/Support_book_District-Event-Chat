@@ -33,7 +33,7 @@
 
 
 
-### Old Event Links 🔙📅 
+### Past Event Links 🔙📅 
 
 
 - <a href="https://docs.google.com/spreadsheets/d/1iuTtn1KYBuqSx32950eqg_5zpa5_h1NikgbdWVDjvvY/edit?gid=1071863240#gid=1071863240" target="_blank">ISL 2025_ BFC vs FC Goa FAQs</a> 🏏⚾🏆
