@@ -35,7 +35,7 @@
 - <a href="https://docs.google.com/spreadsheets/d/1X5rZHguUBcrfQ3Pa4xqvzHddM5WlvHQFRCkeUxZXw6A/edit?gid=633468658#gid=633468658" target="_blank">MPL 2025 FAQs</a>
 - <a href="https://docs.google.com/spreadsheets/d/18T-LMZk7OF22Q76pYIk_tYERWnL1Ll0LSlYcfbRsJgI/edit?gid=646419934#gid=646419934" target="_blank">World Music Day Concert 2025 FAQs</a>
 - <a href="https://docs.google.com/spreadsheets/d/1gKwVrNnHLMRa4oAqq_YJnE5GQlm0rra7sASgtow55s8/edit?gid=312893281#gid=312893281" target="_blank">Jameson connect mumbai FAQs</a>
-
+- <a href="https://docs.google.com/spreadsheets/d/1WjWNHdM9srJ3S0kX9XFJ9Ia4PFYIGYHZgSxiPPXeE4Y/edit?gid=1530930880#gid=1530930880" target="_blank">Radhika Das India Tour 2025 FAQs</a>
 
 
 ### Past Event Links 🔙📅 
