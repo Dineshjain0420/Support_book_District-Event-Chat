@@ -38,6 +38,8 @@
 - <a href="https://docs.google.com/spreadsheets/d/1WjWNHdM9srJ3S0kX9XFJ9Ia4PFYIGYHZgSxiPPXeE4Y/edit?gid=1530930880#gid=1530930880" target="_blank">Radhika Das India Tour 2025 FAQs</a>
 - <a href="https://docs.google.com/spreadsheets/d/1LL5AIVaxXsEA0d26Z5r_JSIyRqzFyPK_kziDegS-_IY/edit?gid=598414130#gid=598414130" target="_blank">Hiphop Bengaluru FAQs</a>
 - <a href="https://docs.google.com/spreadsheets/d/1UwVN9HZOQj5UHFjRb2HeCETNRggZT2hsExFiP-BnsLE/edit?gid=413358260#gid=413358260" target="_blank">Enrique Iglesias FAQs</a>
+- <a href="https://docs.google.com/spreadsheets/d/1SG8ae8SUoWzyZb7T1t2hvPFrLoDZMX_A3yC2ut4b-FA/edit?gid=1242757073#gid=1242757073" target="_blank">GHCL 2025 FAQs</a>
+
 
 ### Past Event Links 🔙📅 
 
