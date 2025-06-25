@@ -39,6 +39,8 @@
 - <a href="https://docs.google.com/spreadsheets/d/1LL5AIVaxXsEA0d26Z5r_JSIyRqzFyPK_kziDegS-_IY/edit?gid=598414130#gid=598414130" target="_blank">Hiphop Bengaluru FAQs</a>
 - <a href="https://docs.google.com/spreadsheets/d/1UwVN9HZOQj5UHFjRb2HeCETNRggZT2hsExFiP-BnsLE/edit?gid=413358260#gid=413358260" target="_blank">Enrique Iglesias FAQs</a>
 - <a href="https://docs.google.com/spreadsheets/d/1SG8ae8SUoWzyZb7T1t2hvPFrLoDZMX_A3yC2ut4b-FA/edit?gid=1242757073#gid=1242757073" target="_blank">GHCL 2025 FAQs</a>
+- <a href="https://docs.google.com/spreadsheets/d/1qwAVecLBpEb2L-1Nr5d5H3ZWbIYICdgNgbD_k33cUFk/edit?gid=1400087902#gid=1400087902" target="_blank">Anime FAQs</a>
+
 
 
 ### Past Event Links 🔙📅 
