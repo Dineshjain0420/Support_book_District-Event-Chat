@@ -40,6 +40,7 @@
 - <a href="https://docs.google.com/spreadsheets/d/1UwVN9HZOQj5UHFjRb2HeCETNRggZT2hsExFiP-BnsLE/edit?gid=413358260#gid=413358260" target="_blank">Enrique Iglesias FAQs</a>
 - <a href="https://docs.google.com/spreadsheets/d/1SG8ae8SUoWzyZb7T1t2hvPFrLoDZMX_A3yC2ut4b-FA/edit?gid=1242757073#gid=1242757073" target="_blank">GHCL 2025 FAQs</a>
 - <a href="https://docs.google.com/spreadsheets/d/1qwAVecLBpEb2L-1Nr5d5H3ZWbIYICdgNgbD_k33cUFk/edit?gid=1400087902#gid=1400087902" target="_blank">Anime FAQs</a>
+- <a href="https://docs.google.com/spreadsheets/d/1ReC3DmkPVUX2Mt_UEwDW6Ztxcp3onDr48g4uC0pBdzo/edit?gid=898781213#gid=898781213" target="_blank">Raatladi - Laal Ishq'25 FAQs</a>
 
 
 
