@@ -24,7 +24,7 @@
 
 - <a href="https://docs.google.com/spreadsheets/d/1Bwk7V-KfmK92IQzGUW6dmdqdsnG1had1Ko5YSUZxk6s/edit?gid=458075922#gid=458075922" target="_blank">Rahul Dua FAQs</a> 😂😆
 - <a href="https://docs.google.com/spreadsheets/d/1JGlpXBv0oElzEk00bWfIMGCHNQ6Mv-XtNr_5qvVEJy8/edit?gid=359252617#gid=359252617" target="_blank">Kevin Hart FAQ's</a>
-- <a href="https://docs.google.com/spreadsheets/d/1xOLpa_YRIuAkHYhbt4f94JBbifAF6wwx9rhEK0GXjk4/edit?gid=485027446#gid=485027446" target="_blank">Hukum World Tour Bengaluru FAQ's</a>
+- <a href="https://docs.google.com/spreadsheets/d/16Q-AjGN6JQsfexCiEKIvkUZMa8H51yymYNhSM1eeXgU/edit?gid=1680799692#gid=1680799692" target="_blank">Hukum World Tour Chennai FAQ's</a>
 - <a href="https://docs.google.com/spreadsheets/d/1i-Aa_EfrPLTkDs1t_2UNMR-LtxoaAHe9wQWBWjYWYDE/edit?gid=1098976194#gid=1098976194" target="_blank">Deva Coimbatore _ FAQs</a>
 - <a href="https://docs.google.com/spreadsheets/d/1_HIgY8yTwB6tUCAN1CGStzoC0CtHvaVOYWNKLK7dlJ0/edit?gid=0#gid=0" target="_blank">MIXTAPE FAQs</a>
 - <a href="https://docs.google.com/spreadsheets/d/1B35Dr0aKuT52Fx24iwgX_8o26tSOTUWcjyyDGfDIDX8/edit?gid=1612711726#gid=1612711726" target="_blank">Amusement Park FAQ</a>
