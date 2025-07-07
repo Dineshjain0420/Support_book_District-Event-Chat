@@ -42,7 +42,7 @@
 - <a href="https://docs.google.com/spreadsheets/d/1qwAVecLBpEb2L-1Nr5d5H3ZWbIYICdgNgbD_k33cUFk/edit?gid=1400087902#gid=1400087902" target="_blank">Anime FAQs</a>
 - <a href="https://docs.google.com/spreadsheets/d/1ReC3DmkPVUX2Mt_UEwDW6Ztxcp3onDr48g4uC0pBdzo/edit?gid=898781213#gid=898781213" target="_blank">Raatladi - Laal Ishq'25 FAQs</a>
 - <a href="https://docs.google.com/spreadsheets/d/1ZSMSpty0tbxh3HUEc51-8SVh9S8ZRcWL6wtkZgCtjDk/edit?gid=133549025#gid=133549025" target="_blank">AR Rehman Hyderabad FAQs</a>
-
+- <a href="https://docs.google.com/spreadsheets/d/1j-d2h5zU0Bj6D0ZPSsWNeqXp2JorfAimCBMRe3i8A_Y/edit?gid=892280945#gid=892280945" target="_blank">Echoes Of Earth 2025 FAQs</a>
 
 
 ### Past Event Links 🔙📅 
