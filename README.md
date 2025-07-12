@@ -29,9 +29,6 @@
 - <a href="https://docs.google.com/spreadsheets/d/1_HIgY8yTwB6tUCAN1CGStzoC0CtHvaVOYWNKLK7dlJ0/edit?gid=0#gid=0" target="_blank">MIXTAPE FAQs</a>
 - <a href="https://docs.google.com/spreadsheets/d/1B35Dr0aKuT52Fx24iwgX_8o26tSOTUWcjyyDGfDIDX8/edit?gid=1612711726#gid=1612711726" target="_blank">Amusement Park FAQ</a>
 - <a href="https://docs.google.com/spreadsheets/d/1YpaRVrMjCoPm97N8H-3tvn0ixjV-mv3dAZY3HaGp9hU/edit?gid=520399225#gid=520399225" target="_blank">BudX NBA House FAQ</a>
-
-
-
 - <a href="https://docs.google.com/spreadsheets/d/18T-LMZk7OF22Q76pYIk_tYERWnL1Ll0LSlYcfbRsJgI/edit?gid=646419934#gid=646419934" target="_blank">World Music Day Concert 2025 FAQs</a>
 - <a href="https://docs.google.com/spreadsheets/d/1gKwVrNnHLMRa4oAqq_YJnE5GQlm0rra7sASgtow55s8/edit?gid=312893281#gid=312893281" target="_blank">Jameson connect mumbai FAQs</a>
 - <a href="https://docs.google.com/spreadsheets/d/1WjWNHdM9srJ3S0kX9XFJ9Ia4PFYIGYHZgSxiPPXeE4Y/edit?gid=1530930880#gid=1530930880" target="_blank">Radhika Das India Tour 2025 FAQs</a>
@@ -42,7 +39,9 @@
 - <a href="https://docs.google.com/spreadsheets/d/1ReC3DmkPVUX2Mt_UEwDW6Ztxcp3onDr48g4uC0pBdzo/edit?gid=898781213#gid=898781213" target="_blank">Raatladi - Laal Ishq'25 FAQs</a>
 - <a href="https://docs.google.com/spreadsheets/d/1ZSMSpty0tbxh3HUEc51-8SVh9S8ZRcWL6wtkZgCtjDk/edit?gid=133549025#gid=133549025" target="_blank">AR Rehman Hyderabad FAQs</a>
 - <a href="https://docs.google.com/spreadsheets/d/1j-d2h5zU0Bj6D0ZPSsWNeqXp2JorfAimCBMRe3i8A_Y/edit?gid=892280945#gid=892280945" target="_blank">Echoes Of Earth 2025 FAQs</a>
-- <a href="https://docs.google.com/spreadsheets/d/135fXG2AdzIj9CyaBuM1v97nyROKKw4_p3z_4VLdvomU/edit?gid=340514647#gid=340514647" target="_blank">Rangoli Re 2025 FAQs</a>
+- <a href="https://docs.google.com/spreadsheets/d/135fXG2AdzIj9CyaBuM1v97nyROKKw4_p3z_4VLdvomU/edit?gid=340514647#gid=340514647" target="_blank">Rangilo Re 2025 FAQs</a>
+
+
 
 ### Past Event Links 🔙📅 
 
