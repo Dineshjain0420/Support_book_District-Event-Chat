@@ -43,7 +43,7 @@
 - <a href="https://docs.google.com/spreadsheets/d/1ReC3DmkPVUX2Mt_UEwDW6Ztxcp3onDr48g4uC0pBdzo/edit?gid=898781213#gid=898781213" target="_blank">Raatladi - Laal Ishq'25 FAQs</a>
 - <a href="https://docs.google.com/spreadsheets/d/1ZSMSpty0tbxh3HUEc51-8SVh9S8ZRcWL6wtkZgCtjDk/edit?gid=133549025#gid=133549025" target="_blank">AR Rehman Hyderabad FAQs</a>
 - <a href="https://docs.google.com/spreadsheets/d/1j-d2h5zU0Bj6D0ZPSsWNeqXp2JorfAimCBMRe3i8A_Y/edit?gid=892280945#gid=892280945" target="_blank">Echoes Of Earth 2025 FAQs</a>
-
+- <a href="https://docs.google.com/spreadsheets/d/135fXG2AdzIj9CyaBuM1v97nyROKKw4_p3z_4VLdvomU/edit?gid=340514647#gid=340514647" target="_blank">Rangoli Re 2025 FAQs</a>
 
 ### Past Event Links 🔙📅 
 
