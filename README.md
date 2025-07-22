@@ -18,8 +18,8 @@
 
 
 ### Specific Event Links 🎤
-
-
+- <a href="https://docs.google.com/spreadsheets/d/1AwvNr856Ot63v4Ga-A-B5XUD_RI2M9iIeifOvMihLI8/edit?gid=1240997585#gid=1240997585" target="_blank">Kevin Hart _ Customer Delight FAQs</a>
+- <a href="https://docs.google.com/spreadsheets/d/1YKMeX3NdfpWZg5idx5q-baAtgX-LbWQjtT2m_xZpBxA/edit?gid=627689091#gid=627689091" target="_blank">Papon live in Ahmedabad FAQs</a>
 
 
 
