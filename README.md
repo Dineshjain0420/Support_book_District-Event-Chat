@@ -26,9 +26,9 @@
 - <a href="https://docs.google.com/spreadsheets/d/1IfzKhVMEZuzQ7aJa_Wijt0FkAeW-cdnbccCR8wKL14I/edit?gid=1505444785#gid=1505444785" target="_blank">Rock On Harris 3.0 Live In Concert _ Chennai FAQs</a>
 - <a href="https://docs.google.com/spreadsheets/d/1_HIgY8yTwB6tUCAN1CGStzoC0CtHvaVOYWNKLK7dlJ0/edit?gid=0#gid=0" target="_blank">MIXTAPE FAQs</a>
 - <a href="https://docs.google.com/spreadsheets/d/1B35Dr0aKuT52Fx24iwgX_8o26tSOTUWcjyyDGfDIDX8/edit?gid=1612711726#gid=1612711726" target="_blank">Amusement Park FAQ</a>
-
-
-
+- <a href="https://docs.google.com/spreadsheets/d/1gQNuYY55SLWiWBj41JbLnN-Lz6MO2AiQhnQ8BYfPu60/edit?gid=1825085651#gid=1825085651" target="_blank"> The Unstoppable Arena Ft. R3HAB FAQs</a>
+- <a href="https://docs.google.com/spreadsheets/d/11zCvdkawAHhrQcWioCgbG4rD5jqT4QInhmO62Dsji8Q/edit?gid=1740662515#gid=1740662515" target="_blank">Pankh Live - Kaushiki Chakraborty India Tour FAQs</a>
+- <a href="https://docs.google.com/spreadsheets/d/1ts8BGX1W1i7mJjPrUZEkJE0ZLAtq5sp_WUtpBfBqNOg/edit?gid=1909423728#gid=1909423728" target="_blank">Rock N Dhol Shubharambh FAQs</a>
 - <a href="https://docs.google.com/spreadsheets/d/1WjWNHdM9srJ3S0kX9XFJ9Ia4PFYIGYHZgSxiPPXeE4Y/edit?gid=1530930880#gid=1530930880" target="_blank">Radhika Das India Tour 2025 FAQs</a>
 - <a href="https://docs.google.com/spreadsheets/d/1LL5AIVaxXsEA0d26Z5r_JSIyRqzFyPK_kziDegS-_IY/edit?gid=598414130#gid=598414130" target="_blank">Hiphop Bengaluru FAQs</a>
 - <a href="https://docs.google.com/spreadsheets/d/1UwVN9HZOQj5UHFjRb2HeCETNRggZT2hsExFiP-BnsLE/edit?gid=413358260#gid=413358260" target="_blank">Enrique Iglesias FAQs</a>
