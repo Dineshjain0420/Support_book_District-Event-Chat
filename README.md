@@ -22,15 +22,14 @@
 
 
 
-- <a href="https://docs.google.com/spreadsheets/d/1Bwk7V-KfmK92IQzGUW6dmdqdsnG1had1Ko5YSUZxk6s/edit?gid=458075922#gid=458075922" target="_blank">Rahul Dua FAQs</a> 😂😆
-- <a href="https://docs.google.com/spreadsheets/d/1JGlpXBv0oElzEk00bWfIMGCHNQ6Mv-XtNr_5qvVEJy8/edit?gid=359252617#gid=359252617" target="_blank">Kevin Hart FAQ's</a>
-- <a href="https://docs.google.com/spreadsheets/d/16Q-AjGN6JQsfexCiEKIvkUZMa8H51yymYNhSM1eeXgU/edit?gid=1680799692#gid=1680799692" target="_blank">Hukum World Tour Chennai FAQ's</a>
-- <a href="https://docs.google.com/spreadsheets/d/1i-Aa_EfrPLTkDs1t_2UNMR-LtxoaAHe9wQWBWjYWYDE/edit?gid=1098976194#gid=1098976194" target="_blank">Deva Coimbatore _ FAQs</a>
+
+
+
 - <a href="https://docs.google.com/spreadsheets/d/1_HIgY8yTwB6tUCAN1CGStzoC0CtHvaVOYWNKLK7dlJ0/edit?gid=0#gid=0" target="_blank">MIXTAPE FAQs</a>
 - <a href="https://docs.google.com/spreadsheets/d/1B35Dr0aKuT52Fx24iwgX_8o26tSOTUWcjyyDGfDIDX8/edit?gid=1612711726#gid=1612711726" target="_blank">Amusement Park FAQ</a>
-- <a href="https://docs.google.com/spreadsheets/d/1YpaRVrMjCoPm97N8H-3tvn0ixjV-mv3dAZY3HaGp9hU/edit?gid=520399225#gid=520399225" target="_blank">BudX NBA House FAQ</a>
-- <a href="https://docs.google.com/spreadsheets/d/18T-LMZk7OF22Q76pYIk_tYERWnL1Ll0LSlYcfbRsJgI/edit?gid=646419934#gid=646419934" target="_blank">World Music Day Concert 2025 FAQs</a>
-- <a href="https://docs.google.com/spreadsheets/d/1gKwVrNnHLMRa4oAqq_YJnE5GQlm0rra7sASgtow55s8/edit?gid=312893281#gid=312893281" target="_blank">Jameson connect mumbai FAQs</a>
+
+
+
 - <a href="https://docs.google.com/spreadsheets/d/1WjWNHdM9srJ3S0kX9XFJ9Ia4PFYIGYHZgSxiPPXeE4Y/edit?gid=1530930880#gid=1530930880" target="_blank">Radhika Das India Tour 2025 FAQs</a>
 - <a href="https://docs.google.com/spreadsheets/d/1LL5AIVaxXsEA0d26Z5r_JSIyRqzFyPK_kziDegS-_IY/edit?gid=598414130#gid=598414130" target="_blank">Hiphop Bengaluru FAQs</a>
 - <a href="https://docs.google.com/spreadsheets/d/1UwVN9HZOQj5UHFjRb2HeCETNRggZT2hsExFiP-BnsLE/edit?gid=413358260#gid=413358260" target="_blank">Enrique Iglesias FAQs</a>
@@ -44,11 +43,12 @@
 - <a href="https://docs.google.com/spreadsheets/d/1Bq5n-kSTwht_m-vnsOMianFX-OplIchn3gsEXb9EeQ4/edit?gid=242246744#gid=242246744" target="_blank">Soulitude Experience FAQs</a>
 
 ### Past Event Links 🔙📅 
-
-
-
-- <a href="https://docs.google.com/spreadsheets/d/1VRpi0APPkfQSWJzBhfIyNAqn1e5GEWUTxmp8qhtvSg4/edit?gid=54208201#gid=54208201" target="_blank">Honey Singh Updates</a> 🎶
-
+- <a href="https://docs.google.com/spreadsheets/d/1Bwk7V-KfmK92IQzGUW6dmdqdsnG1had1Ko5YSUZxk6s/edit?gid=458075922#gid=458075922" target="_blank">Rahul Dua FAQs</a> 😂😆
+- <a href="https://docs.google.com/spreadsheets/d/16Q-AjGN6JQsfexCiEKIvkUZMa8H51yymYNhSM1eeXgU/edit?gid=1680799692#gid=1680799692" target="_blank">Hukum World Tour Chennai FAQ's</a>
+- <a href="https://docs.google.com/spreadsheets/d/1i-Aa_EfrPLTkDs1t_2UNMR-LtxoaAHe9wQWBWjYWYDE/edit?gid=1098976194#gid=1098976194" target="_blank">Deva Coimbatore _ FAQs</a>
+- <a href="https://docs.google.com/spreadsheets/d/1YpaRVrMjCoPm97N8H-3tvn0ixjV-mv3dAZY3HaGp9hU/edit?gid=520399225#gid=520399225" target="_blank">BudX NBA House FAQ</a>
+- <a href="https://docs.google.com/spreadsheets/d/18T-LMZk7OF22Q76pYIk_tYERWnL1Ll0LSlYcfbRsJgI/edit?gid=646419934#gid=646419934" target="_blank">World Music Day Concert 2025 FAQs</a>
+- <a href="https://docs.google.com/spreadsheets/d/1gKwVrNnHLMRa4oAqq_YJnE5GQlm0rra7sASgtow55s8/edit?gid=312893281#gid=312893281" target="_blank">Jameson connect mumbai FAQs</a>
 
 
 
