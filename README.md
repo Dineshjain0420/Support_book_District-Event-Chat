@@ -20,8 +20,6 @@
 ### Specific Event Links 🎤
 - <a href="https://docs.google.com/spreadsheets/d/1AwvNr856Ot63v4Ga-A-B5XUD_RI2M9iIeifOvMihLI8/edit?gid=1240997585#gid=1240997585" target="_blank">Kevin Hart _ Customer Delight FAQs</a>
 - <a href="https://docs.google.com/spreadsheets/d/1YKMeX3NdfpWZg5idx5q-baAtgX-LbWQjtT2m_xZpBxA/edit?gid=627689091#gid=627689091" target="_blank">Papon live in Ahmedabad FAQs</a>
-- <a href="https://docs.google.com/spreadsheets/d/18p14CO8Yqn_0YPw9BUf4TBZRyF5-D_fwxD9smWmiB5M/edit?gid=126394421#gid=126394421" target="_blank">Vijay Antony - Live In Concert FAQs</a>
-- <a href="https://docs.google.com/spreadsheets/d/12t54NJcjDs6bb5_xPMYry1Uej0VJUwv9critt39Zbc8/edit?gid=2111752994#gid=2111752994" target="_blank">The Name Is Vidyasagar - Live In Concert FAQ</a>
 
 
 
