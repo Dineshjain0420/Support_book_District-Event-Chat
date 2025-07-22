@@ -46,24 +46,20 @@
 ### Past Event Links 🔙📅 
 
 
-- <a href="https://docs.google.com/spreadsheets/d/1iuTtn1KYBuqSx32950eqg_5zpa5_h1NikgbdWVDjvvY/edit?gid=1071863240#gid=1071863240" target="_blank">ISL 2025_ BFC vs FC Goa FAQs</a> 🏏⚾🏆
+
 - <a href="https://docs.google.com/spreadsheets/d/1VRpi0APPkfQSWJzBhfIyNAqn1e5GEWUTxmp8qhtvSg4/edit?gid=54208201#gid=54208201" target="_blank">Honey Singh Updates</a> 🎶
-- <a href="https://docs.google.com/spreadsheets/d/15JTXD6ozJReX8z50vBdAQ1l3ODcEaPYNo0OjoOhmrQ0/edit?gid=0#gid=0" target="_blank">Zomaland FAQs</a> 📑
-- <a href="https://docs.google.com/spreadsheets/d/1iivEOttsoLil-nYH5urKrve-lTZL4TllZjeX4FPFSAs/edit?gid=0#gid=0" target="_blank">Zomaland New update</a> 📑
-- <a href="https://docs.google.com/spreadsheets/d/1xpO4zgNIJU9eG-ub527oKn-bdEpbMrZeEeu_zNvYIPI/edit?gid=374955956#gid=374955956" target="_blank"> Real Madrid Legends vs FC Barcelona Legends FAQs</a>
-- <a href="https://docs.google.com/spreadsheets/d/1-pVBy2Iaj7LMAPTdE1TA2thvkMxwURABxwr_dXqv4rY/edit?gid=1245633694#gid=1245633694" target="_blank">Arijit singh Indore April 19 | 6PM FAQ's</a> 🎤🎸
-- <a href="https://docs.google.com/spreadsheets/d/1-49d0_qGZepJz-jHWuNY0-ZPWi9ZMMUVDk4L839f2Bs/edit?gid=0#gid=0" target="_blank">Rishabh Sitar FAQ's</a> 🎸🎸
-- <a href="https://docs.google.com/spreadsheets/d/1ZB7G4WMzu6zkT0z-d1lxNJN3OjNx0CONPTkLmvZHAIo/edit?gid=1496271412#gid=1496271412" target="_blank">IPL FAQs</a> 🏏⚾🏆
-- <a href="https://docs.google.com/spreadsheets/d/1-tjlDw7wJhdukqMfBOCqJqE_guyIMG74DPbdN10RVpA/edit?gid=531822715#gid=531822715" target="_blank">IPL SOP</a> 🏏⚾🏆
-- <a href="https://docs.google.com/spreadsheets/d/13uKHT9oxa5g8WHHpbuSh3ADu8Q1wUhm1ZjZTYwDUE8A/edit?gid=1741347954#gid=1741347954" target="_blank">Shreya Ghoshal FAQs</a> 🎶😊🎤
-- <a href="https://docs.google.com/spreadsheets/d/19bOtEFeodGgme3Tfi3s6XiEANE45yATbCxT-7lyU5p4/edit?gid=1628676229#gid=1628676229" target="_blank">Jahnavi Harrison India Tour FAQs</a> 🎶😊🎤
-- <a href="https://docs.google.com/spreadsheets/d/12l6P9cptlcbG2kMhQz8jegxvresvqdSnrb28zjp05kY/edit?gid=1484856215#gid=1484856215" target="_blank">Arijit singh Surat FAQ's</a> 🎤🎸
-- <a href="https://docs.google.com/spreadsheets/d/15GfrnRYnavXymD-PzSuOGN8UJZ3CqDgLm0IfIRmPaBk/edit?gid=317925455#gid=317925455" target="_blank">AR Rahman FAQ's</a> 🎤🎸
-- <a href="https://docs.google.com/spreadsheets/d/1lXwtO6IlmujPbJTYIajK-pOPm6tJ3Ha3_6OhH0C-UnQ/edit?gid=1258734023#gid=1258734023" target="_blank">Ilaiyaraja FAQ</a>
-- <a href="https://docs.google.com/spreadsheets/d/1xoS44C6P7rMk5to9uavX9OVHgMRausnvD5aPh_5-TCQ/edit?gid=1292747170#gid=1292747170" target="_blank">3 State T20 league opening ceremonies - Nagpur, Rajkot, Kolkata</a>
-- <a href="https://docs.google.com/spreadsheets/d/1ymcWpZUUMRAMm8Fj8oZFeE0In7VZIHPVZ-ZIMgmbEng/edit?gid=360192710#gid=360192710" target="_blank">Disney Jr. Live FAQ</a>
-- <a href="https://docs.google.com/spreadsheets/d/1X5rZHguUBcrfQ3Pa4xqvzHddM5WlvHQFRCkeUxZXw6A/edit?gid=633468658#gid=633468658" target="_blank">MPL 2025 FAQs</a>
-## <span style="color: Green;">Important Web Links</span> 🌍
+
+
+
+
+
+
+
+
+
+
+
+
 
 - <a href="https://external.zomans.com/support/agent" target="_blank">Chat App</a> 💬 - <a href="https://insider.in" target="_blank">Insider</a> 🔍 - <a href="https://admin.insider.in" target="_blank">Insider Login</a> 🔑 - <a href="https://www.zomato.com/live" target="_blank">Zomaland/Zomato Live</a> 🎉   
 - <a href="https://www.zomato.com/" target="_blank">Zomato</a> 🍴 - <a href="https://external.zomans.com/" target="_blank">External Zomans</a> 🔗 - <a href="https://external-access.zomans.com/#/apps" target="_blank">Lifeline Profile</a> 🏥 - <a href="https://web.whatsapp.com/" target="_blank">WhatsApp Web</a> 💬
