@@ -41,7 +41,7 @@
 - <a href="https://docs.google.com/spreadsheets/d/1KwrOMtNHkIGGMSTtlg6AN6UXR1Zh8rnYE69_GzZx1uI/edit?gid=683089698#gid=683089698" target="_blank">Design Mumbai 2025 FAQs</a>
 - <a href="https://docs.google.com/spreadsheets/d/1Bq5n-kSTwht_m-vnsOMianFX-OplIchn3gsEXb9EeQ4/edit?gid=242246744#gid=242246744" target="_blank">Soulitude Experience FAQs</a>
 - <a href="https://docs.google.com/spreadsheets/d/1jyU8RiXD0TbOJyi3vwvDv-R7AJzd316i5yo60PUw1yg/edit?gid=191284785#gid=191284785" target="_blank">Sajjan Raj Vaidya (Siliguri & Gangtok) FAQs</a>
-
+<a href="https://docs.google.com/spreadsheets/d/1jyU8RiXD0TbOJyi3vwvDv-R7AJzd316i5yo60PUw1yg/edit?gid=191284785#gid=191284785" target="_blank">Sajjan Raj Vaidya (Siliguri & Gangtok) FAQs</a>
 ### Past Event Links 🔙📅 
 - <a href="https://docs.google.com/spreadsheets/d/1Bwk7V-KfmK92IQzGUW6dmdqdsnG1had1Ko5YSUZxk6s/edit?gid=458075922#gid=458075922" target="_blank">Rahul Dua FAQs</a> 😂😆
 - <a href="https://docs.google.com/spreadsheets/d/16Q-AjGN6JQsfexCiEKIvkUZMa8H51yymYNhSM1eeXgU/edit?gid=1680799692#gid=1680799692" target="_blank">Hukum World Tour Chennai FAQ's</a>
